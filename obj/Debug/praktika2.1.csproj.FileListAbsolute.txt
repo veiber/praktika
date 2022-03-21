@@ -1,0 +1,6 @@
+C:\Users\инет\source\repos\praktika2.1\praktika2.1\obj\Debug\praktika2.1.csproj.AssemblyReference.cache
+C:\Users\инет\source\repos\praktika2.1\praktika2.1\obj\Debug\MainWindow.g.cs
+C:\Users\инет\source\repos\praktika2.1\praktika2.1\obj\Debug\App.g.cs
+C:\Users\инет\source\repos\praktika2.1\praktika2.1\obj\Debug\praktika2.1_MarkupCompile.cache
+C:\Users\инет\source\repos\praktika2.1\praktika2.1\obj\Debug\praktika2.1_MarkupCompile.lref
+C:\Users\инет\source\repos\praktika2.1\praktika2.1\obj\Debug\Window1.g.cs

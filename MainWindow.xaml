@@ -1,0 +1,17 @@
+﻿<Window x:Class="praktika2._1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:praktika2._1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="Kvadrat" Content="Квадратное уровнение" HorizontalAlignment="Left" Margin="72,131,0,0" VerticalAlignment="Top" Width="242" Height="163" Click="Kvadrat_Click" FontSize="22"/>
+        <Button x:Name="Linei" Content="Линейное уровнение" HorizontalAlignment="Left" Margin="482,132,0,0" VerticalAlignment="Top" Width="235" Height="162" FontSize="22"/>
+        <TextBlock HorizontalAlignment="Left" Margin="320,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="69" Width="462" FontSize="36" TextAlignment="Right"><InlineUIContainer>
+                <Image Height="58" Source="1616712923_38-p-solnishko-krasivo-39.png" Stretch="Fill" Width="88"/>
+            </InlineUIContainer><Run Text="Вычисление корней"/></TextBlock>
+
+    </Grid>
+</Window>
